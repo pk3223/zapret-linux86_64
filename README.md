@@ -38,16 +38,17 @@ updated fork for linux86_64 of https://github.com/Sergeydigl3/zapret-discord-you
 2) cd zapret-linux86_64
 4) sudo bash main_script.sh ( если не работает попробуйте выдать права на запуск sudo chmod +x ./main_script.sh )
 5) sudo chmod +x rename_bat.sh ( используйте его после обновления zapret-latest папки чтобы не ломались названия ./rename_bat.sh )
-6) Вас спросят надо ли обновить zapret-latest папку и nfwqs файл если их нету в папке(они не идут с гитом) то нажмите Y
-7) при cp: cannot create regular file '/home/YOUR_NAME/zapret-linux86_64/nfqws': Permission denied
+6) sudo chmod +x stop_and_clean_nft.sh (для очистки nftables и работы service создателя)
+7) Вас спросят надо ли обновить zapret-latest папку и nfwqs файл если их нету в папке(они не идут с гитом) то нажмите Y
+8) при cp: cannot create regular file '/home/YOUR_NAME/zapret-linux86_64/nfqws': Permission denied
 Ошибка: Не удалось скопировать nfqws
 чинится командой sudo chmod 777 nfqws в папке zapret-linux86_64
-8) Затем вас спросят режим ipset у меня лично лучше всего работает ANY выберите 1 или 2 или 3
-9) Следующая настройка Gamemode в случае использования запрета для игр Y если нет то N
-10) Выбор стратегии я выбираю 1 (general.bat)
-11) Выбор интерфейса (устройства по которому у вас подключен интернет) чтообы узнать нужный используйте ls /sys/class/net
-12) Затем запустится обфускация проверьте twitch/youtube/discord если работает прекрасно запомните настройки ( или посмотрите в conf.enf)
-13) ctrl+c чтобы отключить обфускацию
+9) Затем вас спросят режим ipset у меня лично лучше всего работает ANY выберите 1 или 2 или 3
+10) Следующая настройка Gamemode в случае использования запрета для игр Y если нет то N
+11) Выбор стратегии я выбираю 1 (general.bat)
+12) Выбор интерфейса (устройства по которому у вас подключен интернет) чтообы узнать нужный используйте ls /sys/class/net
+13) Затем запустится обфускация проверьте twitch/youtube/discord если работает прекрасно запомните настройки ( или посмотрите в conf.enf)
+14) ctrl+c чтобы отключить обфускацию
 
     
     Запуск сервиса:

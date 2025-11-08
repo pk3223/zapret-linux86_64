@@ -62,6 +62,8 @@ updated fork for linux86_64 of https://github.com/Sergeydigl3/zapret-discord-you
 
 --------------------------------------------------------------------------------------------------
    Проверка работы:
+
+   
 sudo nft list ruleset - узнать работает ли nftables правильно
 
 systemctl status zapret_discord_youtube.service - проверить работу сервиса

